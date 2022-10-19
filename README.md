@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm a full stack developer working primarily with front-end technologies. It includes HTML, CSS and Javascript with TailwindCSS, React.js, Next.js and React Native. Currently learning Node.js to gain solid knowledge in the backend.
+I'm a full stack developer working primarily with front-end technologies. It includes HTML, CSS and Javascript with TailwindCSS, React.js, Next.js and React Native. Currently learning React.js to gain solid knowledge in the backend.
 
 * 🌍  I'm based in Dhaka
 * 🖥️  See my portfolio at [akibsaleh.me](http://akibsaleh.me)
