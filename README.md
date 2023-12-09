@@ -44,7 +44,7 @@
 
 
 <div align="left">
-<a href="https://app.daily.dev/akibsaleh"><img align="right" src="https://api.daily.dev/devcards/a9e9a401d6914b4f9cddeea21ad34080.png?r=lhc" width="300" alt="Akib Saleh's Dev Card"/></a>
+<a href="https://app.daily.dev/akibsaleh"><img src="https://api.daily.dev/devcards/a9e9a401d6914b4f9cddeea21ad34080.png?r=or0" width="400" alt="Akib Saleh's Dev Card"/></a>
 </div>
 
 ### - 📚 Learning Next JS, Material UI, PostgreSQL, Prisma and Mongoose ODM.
