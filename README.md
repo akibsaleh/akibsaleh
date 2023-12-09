@@ -1,8 +1,6 @@
 ![Akib Saleh Javascript Developer](https://raw.githubusercontent.com/akibsaleh/akibsaleh/main/images/Github%20Profile%20Cover.png)
 
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akib Saleh
-==================================================================================================================================
+[![GitHub Streak](https://streak-stats.demolab.com?user=akibsaleh&theme=nightowl)](https://git.io/streak-stats)
 
 Full Stack Developer
 --------------------
