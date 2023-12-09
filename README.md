@@ -1,19 +1,19 @@
 ![Akib Saleh Javascript Developer](https://raw.githubusercontent.com/akibsaleh/akibsaleh/main/images/Github%20Profile%20Cover.png)
 
-## Current Stats
+## 📊 Current Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=akibsaleh&theme=nightowl&hide_border=true&card_width=848)](https://git.io/streak-stats)
 
-## Connect with me
+## 📮 Connect with me
 <br>
 <br>
 
-[<p align="center" padding-right="10px" ><img height="48" src="https://github.com/akibsaleh/akibsaleh/blob/main/images/linkedinbtn.png?raw=true">](https://www.linkedin.com/in/akibsaleh/)[<img height="48" src="https://github.com/akibsaleh/akibsaleh/blob/main/images/gmailbtn.png?raw=true">](mailto:akibzihan@gmail.com)[<img height="48" src="https://github.com/akibsaleh/akibsaleh/blob/main/images/twitterbtn.png?raw=true"> </p>](https://twitter.com/akibsalehzihan)
+[<p align="center" padding-right="10px" ><img height="48" src="https://github.com/akibsaleh/akibsaleh/blob/main/images/linkedinbtn.png?raw=true">](https://www.linkedin.com/in/akibsaleh)[<img height="48" src="https://github.com/akibsaleh/akibsaleh/blob/main/images/gmailbtn.png?raw=true">](mailto:akibzihan@gmail.com)[<img height="48" src="https://github.com/akibsaleh/akibsaleh/blob/main/images/twitterbtn.png?raw=true"> </p>](https://twitter.com/akibsalehzihan)
 
 <br>
 <br>
 
-## Technology That I know
+## 👨‍💻 Technology That I know
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
