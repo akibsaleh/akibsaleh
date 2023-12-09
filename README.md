@@ -8,7 +8,17 @@
 <br>
 <br>
 
-[<p align="center" padding-right="10px" ><img height="48" src="https://github.com/akibsaleh/akibsaleh/blob/main/images/linkedinbtn.png?raw=true">](https://www.linkedin.com/in/akibsaleh)[<img height="48" src="https://github.com/akibsaleh/akibsaleh/blob/main/images/gmailbtn.png?raw=true">](mailto:akibzihan@gmail.com)[<img height="48" src="https://github.com/akibsaleh/akibsaleh/blob/main/images/twitterbtn.png?raw=true"> </p>](https://twitter.com/akibsalehzihan)
+<p align="center">
+  <a href="https://www.linkedin.com/in/akibsaleh">
+  <img src="https://github.com/akibsaleh/akibsaleh/blob/main/images/linkedinbtn.png?raw=true" />
+  </a>
+  <a href="mailto:akibzihan@gmail.com">
+  <img src="https://github.com/akibsaleh/akibsaleh/blob/main/images/gmailbtn.png?raw=true" />
+  </a>
+  <a href="https://twitter.com/akibsalehzihan">
+  <img src="https://github.com/akibsaleh/akibsaleh/blob/main/images/twitterbtn.png?raw=true" />
+  </a>
+</p>
 
 <br>
 <br>
@@ -16,7 +26,7 @@
 ## 👨‍💻 Technology That I know
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,php" />
     <br>
     <br>
