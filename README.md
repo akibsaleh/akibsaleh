@@ -38,7 +38,7 @@
 </div>
 
 ### - 📚 Learning Next JS, Material UI, PostgreSQL, Prisma and Mongoose ODM.
-### - 🔢 Practice Data Structures and Algorithms. 
+### - 🔢 Practicing Data Structures and Algorithms by solving programming problems. 
 ### - 🤝 I’m looking to collaborate on open source projects. 
 ### - 📝 Practicing writing blogs related to web technologies. 
 ### - ❤️I love photography and playing with ai tools.
