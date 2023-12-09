@@ -44,7 +44,7 @@
 
 
 <div align="left">
-<a href="https://app.daily.dev/akibsaleh"><img align="right" src="https://github.com/akibsaleh/akibsaleh/blob/main/devcard.svg" width="250" alt="Akib Saleh's Dev Card"/></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=akibsaleh&show_icons=true&locale=en" width="300px" alt="akibsaleh" />
 </div>
 
 ### - 📚 Learning Next JS, Material UI, PostgreSQL, Prisma and Mongoose ODM.
