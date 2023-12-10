@@ -1,5 +1,9 @@
 ![Akib Saleh Javascript Developer](https://raw.githubusercontent.com/akibsaleh/akibsaleh/main/images/Github%20Profile%20Cover.png)
-
+<br>
+<br>
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=500&color=F5487F&center=true&random=false&width=846&height=64&lines=Hi+there%2C+I'm+Akib+Saleh;I+love+developing+web+apps;with+Javascript)](https://git.io/typing-svg)
+<br>
 ## 📊 Current Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=akibsaleh&theme=nightowl&hide_border=true&card_width=848)](https://git.io/streak-stats)
@@ -29,6 +33,7 @@
 <br>
 
 <div align="left">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibsaleh" width="400px" alt="akibsaleh" />
   <p align="left">
     <a href="#">
       <img src="https://skillicons.dev/icons?i=html,css,js,c,php" />
@@ -40,7 +45,6 @@
       <img src="https://skillicons.dev/icons?i=mongo,nodejs,express,vercel,wordpress" />
     </a>
   </p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibsaleh" width="400px" alt="akibsaleh" />
 </div>
 
 
