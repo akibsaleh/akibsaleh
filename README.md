@@ -4,7 +4,7 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=500&color=F5487F&center=true&random=false&width=846&height=64&lines=Hi+there%2C+I'm+Akib+Saleh;I+love+developing+web+apps;with+Javascript)](https://git.io/typing-svg)
 <br>
-<p align="center">I love building cool stuff with React, Node.js, Next.js, MongoDB, and Express. When I'm not coding, I enjoy exploring the wonderful world of web tech trends. Oh, and did I mention I have a soft spot for landscape photography? 📸</p>
+<p align="center">I enjoy building cool stuff with React, Node.js, Next.js, MongoDB, and Express. When I'm not coding, I enjoy exploring the wonderful world of web tech trends. Oh, and did I mention I have a soft spot for landscape photography? 📸</p>
 <br>
 ## 📊 Current Stats
 
