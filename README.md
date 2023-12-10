@@ -6,6 +6,7 @@
 <br>
 <p align="center">I enjoy building cool stuff with React, Node.js, Next.js, MongoDB, and Express. When I'm not coding, I enjoy exploring the wonderful world of web tech trends. Oh, and did I mention I have a soft spot for landscape photography? 📸</p>
 <br>
+
 ## 📊 Current Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=akibsaleh&theme=nightowl&hide_border=true&card_width=848)](https://git.io/streak-stats)
@@ -33,9 +34,9 @@
 ## 👨‍💻 Technology That I know
 
 <br>
-
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact -->
 <div align="left">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibsaleh" width="400px" alt="akibsaleh" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibsaleh&layout=compact&theme=nightowl" width="360px" alt="akibsaleh" />
   <p align="left">
     <a href="#">
       <img src="https://skillicons.dev/icons?i=html,css,js,c,php" />
@@ -51,11 +52,12 @@
 <br>
 
 ## 👨‍💻 My MERN Mission Log
-- Developing interactive user interfaces with React.
-- Developing Restful APIs with Express harnessing the power of Node.js
-- Ensuring seamless data integration and management with mongodb
-- Building efficient and secure authentication and authorization systems.
-- Ensuring code maintainability and scalability
+- **Developing interactive user interfaces with React.**
+
+- **Developing Restful APIs with Express harnessing the power of Node.js**
+- **Ensuring seamless data integration and management with mongodb**
+- **Building efficient and secure authentication and authorization systems.**
+- **Ensuring code maintainability and scalability**
 
 <br>
 
@@ -77,5 +79,5 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akibsaleh&show_icons=true&locale=en" width="600px" alt="akibsaleh" />
+<img src="https://github-readme-stats.vercel.app/api?username=akibsaleh&theme=nightowl&show_icons=true" width="600px" alt="akibsaleh" />
 </div>
